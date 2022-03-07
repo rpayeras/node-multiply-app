@@ -1,6 +1,6 @@
 # Muliply App with Node Js
 
-```
+```bash
 Options:
       --help     Show help                                             [boolean]  
       --version  Show version number                                   [boolean]  
